@@ -34,3 +34,6 @@ Please make sure that the multi-view visualization provides a comprehensive unde
    - Page 2: One paragraph (600+ words contrasting 3 techniques of the 7 techniques discussed at https://humansofdata.atlan.com/2016/10/7-techniques-to-visualize-geospatial-data 
    - Page 3: Identify one tool to use from https://www.springboard.com/blog/31-free-data-visualization-tools/ and repeat a demo from this website. This tool is to give you new ideas on how to visualize the different aspects of your data. As a replacement, if you have attended Dr. Barnes' talk on 5/11, please submit some technical comments (+100 words) on one technique that you heard from the talk.
    - Page 4—6: Integrate figure, network graph, map, and text explanation into a multi-view visualization system for your topic. The figure, the graph, the map and the text should coherently describe the data to be visualized. Each page can be a snapshot of the data. [Graduate students are again asked to write down design principles for this system. Please include how the views should be coordinated and linked.]
+
+> [!NOTE]
+> How to use Git:
